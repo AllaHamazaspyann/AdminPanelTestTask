@@ -1,0 +1,318 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "register": [
+    {
+      "email": "h2525h@mail.ru",
+      "password": "8998968sfddsdf",
+      "nickname": "Alla_T",
+      "id": 1
+    },
+    {
+      "email": "hamazaspyan.vardges@mail.ru",
+      "password": "sdfsdf89989",
+      "nickname": "Alla_T",
+      "id": 2
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "686886sdfsdf",
+      "nickname": "Alla_T",
+      "id": 3
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "84949brthtr",
+      "nickname": "Alla_T",
+      "id": 4
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "84949brthtr",
+      "nickname": "Alla_T",
+      "id": 5
+    },
+    {
+      "email": "alla.hamazaspyann@gmail.com",
+      "password": "4498411rthtrhty",
+      "nickname": "Alla_T",
+      "id": 6
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "419812g6trhrtht",
+      "nickname": "Alla_T",
+      "id": 7
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "419812g6trhrtht",
+      "nickname": "Alla_T",
+      "id": 8
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "419812g6trhrtht",
+      "nickname": "Alla_T",
+      "id": 9
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "419812g6trhrtht",
+      "nickname": "Alla_T",
+      "id": 10
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "419812g6trhrtht",
+      "nickname": "Alla_T",
+      "id": 11
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "419812g6trhrtht",
+      "nickname": "Alla_T",
+      "id": 12
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "419812g6trhrtht",
+      "nickname": "Alla_T",
+      "id": 13
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "419812g6trhrtht",
+      "nickname": "Alla_T",
+      "id": 14
+    },
+    {
+      "email": "alla.hamazaspyann@gmail.com",
+      "password": "49811951ergrgtfbhfb",
+      "nickname": "Alla_T",
+      "id": 15
+    },
+    {
+      "email": "alla.hamazaspyann@gmail.com",
+      "password": "7894trghtrhtyhty",
+      "nickname": "Alla_T",
+      "id": 16
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "19529529hgeheh",
+      "nickname": "Alla_T",
+      "id": 17
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "trtr78t7r8t7",
+      "nickname": "Alla_T",
+      "id": 18
+    },
+    {
+      "email": "tynty@gmail.com",
+      "password": "as7d98asd79as",
+      "nickname": "Alla_T",
+      "id": 19
+    },
+    {
+      "email": "tyntyasd@gmail.com",
+      "password": "as5d4s5",
+      "nickname": "Alla_T",
+      "id": 20
+    },
+    {
+      "email": "hamazaspyan.vaddrdges@mail.ru",
+      "password": "hasjdh564654",
+      "nickname": "Alla_T",
+      "id": 21
+    },
+    {
+      "email": "nersesyandsf.v.a@gmail.com",
+      "password": "dsfsdf545",
+      "nickname": "Alla_T",
+      "id": 22
+    },
+    {
+      "email": "alla.hamazaspysdfann@gmail.com",
+      "password": "dsf4f56",
+      "nickname": "Alla_T",
+      "id": 23
+    },
+    {
+      "email": "alla.hamazassdfpyann@gmail.com",
+      "password": "54dsf65sdf",
+      "nickname": "dsflsdkflsdf",
+      "id": 24
+    },
+    {
+      "email": "test@gmail.ru",
+      "password": "f44sd5f456",
+      "nickname": "testik",
+      "id": 25
+    },
+    {
+      "email": "h28989525h@mail.ru",
+      "password": "sd56f4d6",
+      "nickname": "sdfkfds",
+      "id": 26
+    },
+    {
+      "email": "sdf@gmaisdlf.skdf",
+      "password": "sdf45s4df",
+      "nickname": "sdfsdfsdf",
+      "id": 27
+    },
+    {
+      "email": "sdf@gmaisdfsdlf.skdf",
+      "password": "sdf32564fs",
+      "nickname": "Alla_Tsdf",
+      "id": 28
+    },
+    {
+      "email": "hamazaspfgyan.vardges@mail.ru",
+      "password": "df5g44",
+      "nickname": "dfgdfg",
+      "id": 29
+    },
+    {
+      "email": "eiejkff@gmail.co",
+      "password": "sdf54sdf45",
+      "nickname": "Alla_T",
+      "id": 30
+    },
+    {
+      "email": "h252d5h@mail.ru",
+      "password": "sdf5ds56f45sd",
+      "nickname": "Alla_T",
+      "id": 31
+    },
+    {
+      "email": "h2525ddh@mail.ru",
+      "password": "sdf4sd56f4f",
+      "nickname": "dsfsdfsdf",
+      "id": 32
+    },
+    {
+      "email": "dsdfsdf@fm.co",
+      "password": "dfs65df4sdf",
+      "nickname": "Alla_T",
+      "id": 33
+    },
+    {
+      "email": "alla.hamazaspdsfdsfyann@gmail.com",
+      "password": "dsf456sd4f56sd4f",
+      "nickname": "sdfsdf",
+      "id": 34
+    },
+    {
+      "email": "dsf@gmail.co",
+      "password": "sdf46sd6f46",
+      "nickname": "xcvxcvxcv",
+      "id": 35
+    },
+    {
+      "email": "h25dfdf25h@mail.ru",
+      "password": "sdf5d56sf456sdf",
+      "nickname": "sdfsdfsdfsdf",
+      "id": 36
+    },
+    {
+      "email": "sdf54f@gmai.cockd",
+      "password": "sdfsdf456sdf",
+      "nickname": "sdfsdfsdf",
+      "id": 37
+    },
+    {
+      "email": "hamazassdfsdfsdfpyan.vardges@mail.ru",
+      "password": "dsf564dsf65sd456f",
+      "nickname": "Alla_T",
+      "id": 38
+    },
+    {
+      "email": "h2dsfsdf525h@mail.ru",
+      "password": "dsf5dfs456sdf4",
+      "nickname": "Alla_T",
+      "id": 39
+    },
+    {
+      "email": "h25mn25h@mail.ru",
+      "password": "54656f4h",
+      "nickname": "sdfsdfsdf",
+      "id": 40
+    },
+    {
+      "email": "sfsdgg1.gam@dsfsl.com",
+      "password": "sdfsdf54sdf",
+      "nickname": "Alla_T",
+      "id": 41
+    },
+    {
+      "email": "hamdsfsdfazaspyan.vardges@mail.ru",
+      "password": "s5df45sdf45",
+      "nickname": "Alfa",
+      "id": 42
+    },
+    {
+      "email": "alla.hamazaspyan@gmail.com",
+      "password": "5adsf5s4df",
+      "nickname": "sdfdsf",
+      "id": 43
+    },
+    {
+      "email": "alla.hamazaspyan@gmail.com",
+      "password": "ds4f5s4f5sd",
+      "id": 44
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "sdf455sdf45sdf",
+      "id": 45
+    },
+    {
+      "email": "alla.hamazaspyan@gmail.com",
+      "password": "sajdhajksd545",
+      "id": 46
+    },
+    {
+      "email": "alla.hamazaspyan@gmail.com",
+      "password": "ds5f456sdf465sd",
+      "id": 47
+    },
+    {
+      "email": "alla.hamazaspyan@gmail.com",
+      "password": "dsf45sdf54",
+      "id": 48
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "sd45f5sdf4sdf",
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "id": 51
+    },
+    {
+      "id": 52
+    }
+  ]
+}

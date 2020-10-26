@@ -1,0 +1,152 @@
+{
+  "posts": [
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "created_date": "created_date",
+      "author_name": "author_name",
+      "category": "category",
+      "comment": "",
+      "id": 6
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "created_date",
+      "author_name": "author_name",
+      "category": "category",
+      "comment": "",
+      "id": 7
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T10:55:55+04:00",
+      "author_name": "author_name",
+      "category": "category",
+      "comment": "",
+      "id": 8
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T10:56:06+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "category",
+      "comment": "",
+      "id": 9
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T10:56:13+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "Food",
+      "comment": "",
+      "id": 10
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T10:59:04+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "Food",
+      "comment": "",
+      "id": 11
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T11:00:08+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "Food",
+      "comment": "",
+      "id": 12
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T11:00:13+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "Food",
+      "comment": "",
+      "id": 13
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T11:02:27+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "Food",
+      "comment": "",
+      "id": 14
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T11:04:32+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "Food",
+      "comment": "",
+      "id": 15
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T11:04:57+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "Food",
+      "comment": "",
+      "id": 16
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T11:05:34+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "Food",
+      "comment": "",
+      "id": 17
+    },
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "created_date": "2019-12-10T11:06:58+04:00",
+      "author_name": "Lorem Ipsum",
+      "category": "Food",
+      "comment": "",
+      "id": 18
+    },
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "register": [
+    {
+      "email": "h2525h@mail.ru",
+      "password": "8998968sfddsdf",
+      "nickname": "Alla_T",
+      "id": 1
+    },
+    {
+      "email": "hamazaspyan.vardges@mail.ru",
+      "password": "sdfsdf89989",
+      "nickname": "Alla_T",
+      "id": 2
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "686886sdfsdf",
+      "nickname": "Alla_T",
+      "id": 3
+    }
+  ],
+  "comment": []
+}

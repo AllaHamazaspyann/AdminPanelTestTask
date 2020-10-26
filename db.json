@@ -1,0 +1,136 @@
+{
+  "posts": [
+    {
+      "title": "Jane Eyre",
+      "main_text": "The novel revolutionised prose fiction by being the first to focus on its protagonist's moral and spiritual development through an intimate first-person narrative, where actions and events are coloured by a psychological intensity.",
+      "created_at": "2019-12-10T15:14:32+04:00",
+      "author": " Charlotte Brontë",
+      "category": "Books",
+      "id": 1
+    },
+    {
+      "title": "Špagete karbonara",
+      "main_text": " Špagete karbonara niko ne odbija: Ali ovo je JEDINI TAČAN RECEPT za pripremu 23.06.2018. 20:38  0 Špagete karbonara je italijansko jelo od testenine i smatra se gotovo nezaobilaznim u rimskoj kuhinji. Priprema se na jednostavan način, veoma je hranljivo i prilično jakog ukusa.",
+      "created_at": "2019-12-10T15:17:12+04:00",
+      "author": "John",
+      "category": "",
+      "id": 2
+    },
+    {
+      "title": "We finally have footage of a giant squid in U.S. waters",
+      "main_text": "We finally have footage of a giant squid in U.S. waters We finally have footage of a giant squid in U.S. waters",
+      "created_at": "2019-12-10T17:17:08+04:00",
+      "author": "CNN",
+      "category": "Art",
+      "id": 3
+    },
+    {
+      "title": "The power of music: how it can benefit health",
+      "main_text": " \"I think music in itself is healing,\" American musician Billy Joel once said. \"It's an explosive expression of humanity. It's something we are all touched by. No matter what culture we're from, everyone loves music.\" Most of us would wholeheartedly agree with this statement, and it is this universal bond with music that has led researchers across the globe to investigate its therapeutic potential.",
+      "created_at": "2019-12-10T17:24:42+04:00",
+      "author": "playsom",
+      "category": "Music",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "articleId": "2",
+      "body": "Great article. thank you",
+      "created_at": "2019-12-10T16:29:03+04:00",
+      "id": 3
+    },
+    {
+      "articleId": "2",
+      "body": "Hey what a good Job. ",
+      "created_at": "2019-12-10T16:29:47+04:00",
+      "id": 4
+    },
+    {
+      "articleId": "2",
+      "body": "Keep going. Great",
+      "created_at": "2019-12-10T16:31:15+04:00",
+      "id": 5
+    },
+    {
+      "articleId": "2",
+      "body": "great ",
+      "created_at": "2019-12-10T16:32:25+04:00",
+      "id": 6
+    },
+    {
+      "articleId": "2",
+      "body": "Good job",
+      "created_at": "2019-12-10T16:32:57+04:00",
+      "id": 7
+    },
+    {
+      "articleId": "2",
+      "body": "Not a good way. Sorry.",
+      "created_at": "2019-12-10T16:43:54+04:00",
+      "id": 8
+    },
+    {
+      "articleId": "2",
+      "body": "Nice and Tasty!",
+      "created_at": "2019-12-10T17:07:26+04:00",
+      "id": 9
+    },
+    {
+      "articleId": "2",
+      "body": "what a wonderful article",
+      "created_at": "2019-12-10T17:08:33+04:00",
+      "id": 10
+    },
+    {
+      "articleId": "2",
+      "body": "Hey great",
+      "created_at": "2019-12-10T17:08:50+04:00",
+      "id": 11
+    },
+    {
+      "articleId": "1",
+      "body": "I like it. ",
+      "created_at": "2019-12-10T17:09:48+04:00",
+      "id": 12
+    },
+    {
+      "articleId": "1",
+      "body": "Great ",
+      "created_at": "2019-12-10T17:09:51+04:00",
+      "id": 13
+    },
+    {
+      "articleId": "1",
+      "body": "Wow what a good article. ",
+      "created_at": "2019-12-10T17:10:00+04:00",
+      "id": 14
+    },
+    {
+      "articleId": "3",
+      "body": "Haha interesting",
+      "created_at": "2019-12-10T17:18:06+04:00",
+      "id": 15
+    }
+  ],
+  "register": [
+    {
+      "email": "h2525h@mail.ru",
+      "password": "8998968sfddsdf",
+      "nickname": "Alla_T",
+      "id": 1
+    },
+    {
+      "nickname": "Alla_T",
+      "password": "testpass5",
+      "email": "hamazaspyan.vardges@mail.ru",
+      "id": 2
+    },
+    {
+      "email": "David@gmail.com",
+      "password": "david777",
+      "nickname": "David",
+      "id": 4
+    }
+  ]
+}

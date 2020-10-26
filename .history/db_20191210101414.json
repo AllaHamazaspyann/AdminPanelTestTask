@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "email": "fgugjfg",
+      "password": "gfhfghfgh",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "register": [
+    {
+      "email": "h2525h@mail.ru",
+      "password": "8998968sfddsdf",
+      "nickname": "Alla_T",
+      "id": 1
+    },
+    {
+      "email": "hamazaspyan.vardges@mail.ru",
+      "password": "sdfsdf89989",
+      "nickname": "Alla_T",
+      "id": 2
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "686886sdfsdf",
+      "nickname": "Alla_T",
+      "id": 3
+    }
+  ],
+  "posts": 
+}

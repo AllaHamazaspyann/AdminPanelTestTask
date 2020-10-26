@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "title": "Karbonara Spagetti",
+      "main_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "created_date": "created_date",
+      "author_name": "author_name",
+      "category": "category",
+      "comment": "",
+      "id": 6
+    },
+   
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "register": [
+    {
+      "email": "h2525h@mail.ru",
+      "password": "8998968sfddsdf",
+      "nickname": "Alla_T",
+      "id": 1
+    },
+    {
+      "email": "hamazaspyan.vardges@mail.ru",
+      "password": "sdfsdf89989",
+      "nickname": "Alla_T",
+      "id": 2
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "686886sdfsdf",
+      "nickname": "Alla_T",
+      "id": 3
+    }
+  ],
+  "comment": []
+}

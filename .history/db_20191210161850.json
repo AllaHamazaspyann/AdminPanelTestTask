@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "title": "Jane Eyre",
+      "main_text": "The novel revolutionised prose fiction by being the first to focus on its protagonist's moral and spiritual development through an intimate first-person narrative, where actions and events are coloured by a psychological intensity.",
+      "created_at": "2019-12-10T15:14:32+04:00",
+      "author": " Charlotte Brontë",
+      "category": "Books",
+      "id": 1
+    },
+    {
+      "title": "Špagete karbonara",
+      "main_text": " Špagete karbonara niko ne odbija: Ali ovo je JEDINI TAČAN RECEPT za pripremu 23.06.2018. 20:38  0 Špagete karbonara je italijansko jelo od testenine i smatra se gotovo nezaobilaznim u rimskoj kuhinji. Priprema se na jednostavan način, veoma je hranljivo i prilično jakog ukusa.",
+      "created_at": "2019-12-10T15:17:12+04:00",
+      "author": "John",
+      "category": "",
+      "id": 2
+    }
+  ],
+  "comments": [
+  
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "register": [
+    {
+      "email": "h2525h@mail.ru",
+      "password": "8998968sfddsdf",
+      "nickname": "Alla_T",
+      "id": 1
+    },
+    {
+      "email": "hamazaspyan.vardges@mail.ru",
+      "password": "sdfsdf89989",
+      "nickname": "Alla_T",
+      "id": 2
+    },
+    {
+      "email": "h2525h@mail.ru",
+      "password": "686886sdfsdf",
+      "nickname": "Alla_T",
+      "id": 3
+    }
+  ],
+  "comment": []
+}
